@@ -1,0 +1,40 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  width: 1068px;
+  margin: 27px auto 0 auto;
+  background-color: #f4f9e2;
+}
+
+.nav {
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+  width: 233px;
+}
+
+.header ul {
+  margin-top: 10px;
+}
+
+.header ul li a {
+  font-size: 14px;
+  color: #22356f;
+}
+
+.home a {
+  padding: 0 5px 8px 5px;
+  border-bottom: 2px solid #22356f;
+}
+
+.header button {
+  position: relative;
+  z-index: 2;
+  border-radius: 50px;
+  background-color: #62d0df;
+  color: white;
+  font-size: 11px;
+  font-weight: bold;
+  border: none;
+  padding: 17px 30px;
+}

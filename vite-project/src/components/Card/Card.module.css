@@ -1,0 +1,27 @@
+.cardBox {
+    padding: 72px;
+}
+
+.line {
+ margin: 0 auto;
+}
+
+.cardChild {
+    margin-top: 23px;
+    display: flex;
+}
+
+.circle {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #E9B730;
+    margin-right: 15px;
+    margin-top: 11px;
+}
+
+.cardChild h1 {
+    font-size: 32px;
+    font-weight: bold;
+    color: #FFFFFF;
+}

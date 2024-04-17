@@ -1,0 +1,40 @@
+.shouldPapa {
+    display: flex;
+}
+
+.img {
+    width: 480px;
+    height: 800px;
+}
+
+.img img {
+    width: 100%;
+    height: 100%;
+}
+
+.contant {
+    width: 960px;
+    height: 800px;
+}
+
+.contant h2 {
+    margin: 103px 0 0 106px;
+    font-size: 16px;
+    color: #22356F;
+}
+
+.contant p {
+    margin: 225px 175px 152px 106px;
+    width: 676px;
+    height: 215px;
+    font-size: 36px;
+    color: #22356F;
+    font-weight: bold;
+}
+
+.contant h3 {
+    margin: 106px 0 42px 106px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #FAB63E;
+}

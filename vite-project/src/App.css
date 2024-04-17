@@ -1,0 +1,156 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: sans-serif;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
+
+.header-papa,
+.container {
+  width: 1440px;
+  margin: 0 auto;
+  border: 1px solid black;
+  background-color: #f4f9e2;
+}
+
+/* helping */
+
+.helping {
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+  padding-top: 164px;
+  position: relative;
+}
+
+.helping-bac {
+  background-color: rgb(255, 255, 255);
+}
+
+.helping-th {
+  margin-top: 164px;
+}
+
+.helping-left {
+  margin-left: 186px;
+}
+
+.lifes {
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+
+.about-me {
+  width: 300px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 77px;
+}
+
+.helpingbacfirst img {
+  position: absolute;
+  top: -75px;
+  right: 0;
+  width: 554px;
+  height: 607px;
+  z-index: 0;
+}
+
+.helpingpeople img {
+  position: absolute;
+  top: -80px;
+  right: 0;
+  width: 664px;
+  height: 750px;
+}
+
+/* thrive */
+
+.thrive {
+  display: flex;
+  padding-left: 186px;
+  background-color: #62d0df;
+}
+
+/* about-us */
+
+.about-us {
+  background-color: #ffffff;
+}
+
+.pandh-about-us {
+  display: flex;
+}
+
+/* card */
+
+.card {
+  background-color: #ffffff;
+}
+
+.card-app {
+  display: flex;
+  margin-bottom: 120px;
+}
+
+.cardsr {
+  display: flex;
+}
+
+/* nutritional */
+
+.nutritional-papa {
+  background-color: #ffffff;
+}
+
+.nutritional-top,
+.nutritional-bottom {
+  display: flex;
+  justify-content: space-around;
+}
+
+.tritional-top {
+  margin-top: 22px;
+}
+
+.nutritional-bottom {
+  margin-bottom: 40px;
+}
+
+/* should */
+
+.should-main {
+  background-color: #FFFFFF;
+}
+
+/* ready */
+
+.ready {
+  display: flex;
+  /* background-color: #22356F; */
+  color: white;
+  position: relative;
+  z-index: -1;
+}
+
+.ready h1 {
+  color: white;
+}
+
+/* someInfo */
+
+.some-parent {
+  background-color: #FFFFFF;
+}
+
+/* footer */
+
+.footer {
+  background-color: #62D0DF;
+  height: 80px;
+}

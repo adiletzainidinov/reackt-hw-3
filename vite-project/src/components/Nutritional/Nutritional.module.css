@@ -1,0 +1,21 @@
+.nutritionalstag h1{
+    font-size: 28px;
+    color: #22356F;
+    font-weight: auto;
+    margin-bottom: 28px;
+}
+
+.nutritionalstag p {
+    width: 298px;
+    font-size: 16px;
+    color: #22356F;
+}
+
+.nutritionalstag {
+    width: 280px;
+    height: 240px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
